@@ -1,0 +1,17 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor Directories
+.cursor/
+.vscode/
+.idea/
+
+# Node/Dependencies (if any future use)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Temporary files
+*.tmp
+*.bak
